@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript: division by zero. The `bug.js` file contains a function with flawed logic that doesn't properly handle cases where either input is zero. This can lead to runtime errors. The `bugSolution.js` file offers a corrected version.
